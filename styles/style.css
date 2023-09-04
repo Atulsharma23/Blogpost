@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(112, 89, 85);
+}
+.myImg{
+    border: 2px solid red;
+   }
+.personalblogs{
+    display: flex;
+    justify-content: center;
+   
+   }
+  
